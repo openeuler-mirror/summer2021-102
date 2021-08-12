@@ -1,4 +1,4 @@
-from Qwindow import CET_mainWindow
+from CETwindow import CET_mainWindow
 from PyQt5.QtWidgets import QApplication,QMainWindow
 import sys
 from PyQt5.QtCore import Qt
